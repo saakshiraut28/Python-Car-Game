@@ -1,2 +1,2 @@
 # Python-Car-Game
-This is an example of if and elif statement ..Starts with help command
+This is an example of if and elif statements. Starts with help command
